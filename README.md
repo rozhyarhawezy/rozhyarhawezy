@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="180" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Hello_Kitty_bw.svg"/>
+
 
 
 ```yaml
