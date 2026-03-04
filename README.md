@@ -41,12 +41,7 @@ Major      : IT
 
 ### `$ cat ./stats`
 
-<div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333&hide_border=false"/>
-
-</div>
 
 <div align="center">
 
