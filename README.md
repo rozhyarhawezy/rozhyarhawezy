@@ -6,11 +6,8 @@
 ░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀
 ```
 
-*yara*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rozhyarhawezy)
 
 </div>
 
@@ -18,10 +15,6 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### `$ whoami`
-
-Hey — I'm **Your Name**, a [your role] who loves building things and solving problems.  
-Currently working on [what you're working on].
 
 ```yaml
 location   : Iraq
@@ -39,6 +32,8 @@ Major      : IT
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23000000.svg?style=flat-square&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
