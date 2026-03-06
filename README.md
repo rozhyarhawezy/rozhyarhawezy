@@ -37,17 +37,6 @@ Major      : IT
 
 </div>
 
----
-
-### `$ cat ./stats`
-
-
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rozhyarhawezy&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=666666&border=333333)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
